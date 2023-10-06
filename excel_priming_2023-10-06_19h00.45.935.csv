@@ -1,0 +1,26 @@
+﻿Study_word,test,reference,old_new,textbox.text,,,,,,,,,,,,,text_2.started,textbox.started,text_3.started,mouse.started,,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse.clicked_name,text_2.stopped,textbox.stopped,text_3.stopped,mouse.stopped,participant,session,date,expName,psychopyVersion,frameRate
+,m_ne_,money,old,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,_di_y,edify,old,e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,d_g_,dogs,old,dogs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,e_fe_e,effete,old,efete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,ra_bi_,rabbit,new,rabit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,p_rr_t,parrot,new,parrot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,or_ng_,orange,old,orange,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,be_h_v_,beehove,old,beehove,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,i_ecr_am,icecream,old,icecream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,_mp_t_s,impetus,new,imputus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,li_n,lion,old,lion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,c_m_ra,camera,old,camera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,a_pl_,apple,old,apple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,gi_l,girl,old,girl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2023-10-06_19h00.45.935,priming,2023.1.3,60.03979437
+,f_sh,fish,old,fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,t_lly,tally,new,tally,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,a_u_en,acumen,old,acumen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,b_s_io_,bastion,old,bastino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,m_ri_d,myriad,new,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,j_k_r,joker,old,jokr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Proportionate hit from study list,13,0.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Proportionate hit from non-study list,4,0.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Priming Score,,0.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
